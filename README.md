@@ -153,12 +153,3 @@ See the `examples/`sub-directory.
 See the `tests/`sub-directory.
 
 
-## Support
-
-File bug reports, feature requests and questions using
-[GitHub Issues](https://github.com/edenhill/librdkafka/issues)
-
-
-Questions and discussions are also welcome on irc.freenode.org, #apache-kafka,
-nickname Snaps.
-
